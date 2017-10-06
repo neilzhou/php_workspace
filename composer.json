@@ -1,0 +1,16 @@
+{
+    "name": "neilzhou/workspace",
+    "description": "The php workspace for neil zhou",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neil.Zhou",
+            "email": "neil.zhou@activenetwork.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
